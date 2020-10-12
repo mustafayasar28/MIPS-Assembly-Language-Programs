@@ -1,2 +1,2 @@
 # MIPS-Assembly-Language-Programs
-MIPS Assembly Language Programs that are written for CS224 - Computer Architecture Course
+MIPS Assembly Language Programs that are written in CS224 - Computer Architecture Course
